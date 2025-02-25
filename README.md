@@ -1,7 +1,6 @@
 # HR Attrition Analysis
 ## Overview
-Conducted analysis in SQL and Python to uncover insights on employee attrition and workplace satisfaction for an HR Analytics dataset containing 1,480 employee records. Worked independently for one weeks to clean, transform, and analyze the data, identifying key metrics such as attrition rate, average monthly income, and employee satisfaction levels. Built an interactive dashboard in Tableau to visualize trends related to attrition by department, job role, gender, and age. Delivered actionable insights and recommendations for the HR team, focusing on improving employee retention and workplace satisfaction.
-
+Conducted analysis in Python to uncover insights on employee attrition and workplace satisfaction for an HR Analytics dataset containing 1,480 employee records. Worked independently for one week to clean, transform, and analyze the data, identifying key metrics such as attrition rate, average monthly income, and employee satisfaction levels. Built an interactive dashboard in Tableau to visualize trends related to attrition by department, job role, gender, and age. Delivered actionable insights and recommendations for the HR team, focusing on improving employee retention and workplace satisfaction.
 
 ## Tools and Technologies
 - **Python**: Pandas, NumPy, Matplotlib, and Seaborn for data cleaning, transformation, and analysis.
