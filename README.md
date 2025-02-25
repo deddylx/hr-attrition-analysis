@@ -57,16 +57,15 @@ Source: [HR Analytics Dataset](https://www.kaggle.com/datasets/anshika2301/hr-an
 
 ## Project Workflow
 1. **Data Loading and Cleaning**
-   - Data Loading and Cleaning
-     - The dataset was downloaded from Kaggle and loaded into Python using Pandas.
-     - Data cleaning steps included:
-       - Removing duplicate records
-       - Handling missing values.
-       - Transforming categorical columns (e.g., Attrition) into numerical values for analysis.
+   - The dataset was downloaded from Kaggle and loaded into Python using Pandas.
+   - Data cleaning steps included:
+     - Removing duplicate records
+     - Handling missing values.
+     - Transforming categorical columns (e.g., Attrition) into numerical values for analysis.
 2. **Data Analysis with Python**
    - The cleaned data was analyzed using Python.
    - Key analyses performed:
-     -Attrition rate by department and job role.
+     - Attrition rate by department and job role.
      - Average monthly income and years at the company.
      - Employee satisfaction levels (environment, job, work-life balance).
      - Impact of business travel and overtime on attrition.
@@ -86,15 +85,13 @@ Source: [HR Analytics Dataset](https://www.kaggle.com/datasets/anshika2301/hr-an
 The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/deddy.putra/viz/HRAnalytics2_17404586516460/Dashboard33).
 ## Project Structure
 ```
-shopping-mall-campaign-analysis/
+hr-attrition-analysis/
 ├── data/
-│   └── shopping_mall_campaign_data.csv
-├── sql_scripts/
-│   └── data_cleaning.sql
+│   └── HR_Analytics.csv
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── hr_analysis.ipynb
 ├── dashboard/
-│   └── campaign_dashboard.twb
+│   └── hr_dashboard.twbx
 ├── images/
 │   └── dashboard_screenshot.png
 └── README.md
@@ -110,10 +107,10 @@ shopping-mall-campaign-analysis/
 
 ## **Recommendations**  
 
-- Targeted Retention Programs: Focus on high-attrition roles such as Sales Representatives and Laboratory Technicians.
-- Improve Satisfaction Levels: Enhance workplace environment and job satisfaction through employee engagement programs.
-- Income and Tenure Analysis: Review compensation and tenure policies to retain employees with lower income and shorter tenure.
-- Overtime Management: Implement policies to manage overtime and reduce burnout among employees.
+- **Targeted Retention Programs**: Focus on high-attrition roles such as Sales Representatives and Laboratory Technicians.
+- **Improve Satisfaction Levels**: Enhance workplace environment and job satisfaction through employee engagement programs.
+- **Income and Tenure Analysis**: Review compensation and tenure policies to retain employees with lower income and shorter tenure.
+- **Overtime Management**: Implement policies to manage overtime and reduce burnout among employees.
 
 ## Contact
 For questions or feedback, feel free to reach out:
