@@ -79,9 +79,9 @@ Source: [HR Analytics Dataset](https://www.kaggle.com/datasets/anshika2301/hr-an
      - Impact of business travel and overtime on attrition.
 
 ## Tableau Screenshot
-<img width="1199" alt="Screenshot 2025-02-25 at 13 11 44" src="https://github.com/user-attachments/assets/7bbd9565-0378-4d50-ac8c-4dd4f3b50d27" />
+<img width="1195" alt="hr_dashboard" src="https://github.com/user-attachments/assets/7c3a6eb2-ddf4-4fca-b4b4-c266a9d97c07" />
 
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/deddy.putra/viz/HRAnalytics2_17404586516460/Dashboard33).
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/deddy.putra/viz/hr_dashboard_17407148061730/HRDashboard?publish=yes).
 ## Project Structure
 ```
 hr-attrition-analysis/
@@ -102,7 +102,7 @@ hr-attrition-analysis/
 2. **Job Role Impact**: Sales Representatives have the highest attrition rate (39.3%).
 3. **Employee Satisfaction**: Employees with lower environment and job satisfaction scores are more likely to leave.
 4. **Income and Tenure**: Employees with lower monthly income and shorter tenure are more likely to leave.
-5. **Overtime Impact**: Employees working overtime have a higher attrition rate (25.5%) compared to those who do not (14.2%).
+5. **Overtime Impact**: Employees working overtime have a higher attrition rate (30.6%) compared to those who do not (10.4%).
 
 ## **Recommendations**  
 
